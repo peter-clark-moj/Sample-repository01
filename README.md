@@ -1,3 +1,4 @@
 trigger
 deploy
 build
+stage
